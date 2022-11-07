@@ -1,0 +1,4 @@
+# My .gitignore
+dist/
+.idea/
+node_modules/
