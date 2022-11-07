@@ -32,7 +32,7 @@ Bootstrap Theme Kit can be installed via [npm](https://www.npmjs.com). To start,
 
 To use Bootstrap Theme Kit open [index.html](https://github.com/niel-conradie/bootstrap-v5-theme-kit/blob/master/index.html) with [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) or [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension. 
 
-Then use the [bootstrap.scss](https://github.com/niel-conradie/bootstrap-v5-theme-kit/blob/master/scss/bootstrap.scss) file in the [scss](https://github.com/niel-conradie/bootstrap-v5-theme-kit/tree/master/scss) folder to edit bootstrap components.
+Then use the [_variables.scss](https://github.com/niel-conradie/bootstrap-theme-kit/blob/master/scss/_variables.scss) file in the [scss](https://github.com/niel-conradie/bootstrap-v5-theme-kit/tree/master/scss) folder to edit bootstrap components.
 
 ----
 ## **License**
