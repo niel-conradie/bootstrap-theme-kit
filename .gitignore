@@ -1,5 +1,7 @@
 # My .gitignore
-css/custom-bootstrap.css
-css/custom-bootstrap.css.map
+css/custom-bootstrap-light.css
+css/custom-bootstrap-light.css.map
+css/custom-bootstrap-dark.css
+css/custom-bootstrap-dark.css.map
 .idea/
 node_modules
