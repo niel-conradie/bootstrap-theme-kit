@@ -2,7 +2,7 @@
 
 **Bootstrap theme editing kit using [Sass](https://sass-lang.com).**
 
-This is starter project to help you get started quickly when making a custom Bootstrap theme.
+This is starter project to help get started quickly when making a custom Bootstrap theme.
 
 ----
 ## **Requirements**
@@ -30,9 +30,15 @@ Bootstrap Theme Kit can be installed via [npm](https://www.npmjs.com). To start,
 ----
 ## **Usage**
 
-To use Bootstrap Theme Kit open [index.html](https://github.com/niel-conradie/bootstrap-v5-theme-kit/blob/master/index.html) with [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) or [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension. 
+Two options for using Bootstrap Theme Kit, using [npm](https://www.npmjs.com) packages or with [Sass Live Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) extension.
 
-Then use the [_variables.scss](https://github.com/niel-conradie/bootstrap-theme-kit/blob/master/scss/_variables.scss) file in the [scss](https://github.com/niel-conradie/bootstrap-v5-theme-kit/tree/master/scss) folder to edit bootstrap components.
+First option is using the Visual Studio Code extension, make sure all requirements are met then activate the watch button on the button side of editor for live compilation.
+
+Second option is using npm packages, out of the box after npm installation step type thus command in your terminal to start live compilation.
+
+```bash
+  $ npm run compile:sass
+```
 
 ----
 ## **License**
