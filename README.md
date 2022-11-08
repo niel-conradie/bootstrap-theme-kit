@@ -2,7 +2,7 @@
 
 **Bootstrap theme editing kit using [Sass](https://sass-lang.com).**
 
-This is starter project to help get started quickly when making a custom Bootstrap theme.
+This is starter project to help get started quickly when making a custom Bootstrap theme, with a light and dark mode toggle.
 
 ----
 ## **Requirements**
