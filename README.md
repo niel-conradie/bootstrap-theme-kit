@@ -19,8 +19,7 @@ Bootstrap Theme Kit can be installed via [npm](https://www.npmjs.com). To start,
 * **Clone Repository**
 ```bash
   $ git clone https://github.com/niel-conradie/bootstrap-theme-kit.git
-  $ cd bootstrap-theme-kit
-  $ cd theme-kit
+  $ cd bootstrap-theme-kit/bootstrap-theme-kit
 ```
 
 * **npm Installation**
