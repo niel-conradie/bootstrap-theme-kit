@@ -20,6 +20,7 @@ Bootstrap Theme Kit can be installed via [npm](https://www.npmjs.com). To start,
 ```bash
   $ git clone https://github.com/niel-conradie/bootstrap-theme-kit.git
   $ cd bootstrap-theme-kit
+  $ cd theme-kit
 ```
 
 * **npm Installation**
@@ -37,7 +38,7 @@ First option is using the Visual Studio Code extension, make sure all requiremen
 Second option is using npm packages, out of the box after npm installation step type thus command in your terminal to start live compilation.
 
 ```bash
-  $ npm run compile:sass
+  $ npm run watch
 ```
 
 ----
