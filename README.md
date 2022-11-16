@@ -18,26 +18,28 @@ Bootstrap Theme Kit can be installed via [npm](https://www.npmjs.com). To start,
 
 * **Clone Repository**
 ```bash
-  $ git clone https://github.com/niel-conradie/bootstrap-theme-kit.git
-  $ cd bootstrap-theme-kit/bootstrap-theme-kit
+git clone https://github.com/niel-conradie/bootstrap-theme-kit.git
 ```
-
+* **Change Directory**
+```bash
+cd bootstrap-theme-kit/bootstrap-theme-kit
+```
 * **npm Installation**
 ```bash
-  $ npm install
+npm install
 ```
 
 ----
 ## **Usage**
 
-Two options for using Bootstrap Theme Kit, using [npm](https://www.npmjs.com) packages or with [Sass Live Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) extension.
+- Two options for using Bootstrap Theme Kit, using [npm](https://www.npmjs.com) packages or with [Sass Live Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) extension.
 
-First option is using the Visual Studio Code extension, make sure all requirements are met then activate the watch button on the button side of editor for live compilation.
+- First option is using the Visual Studio Code extension, make sure all requirements are met then activate the watch button on the button side of editor for live compilation.
 
-Second option is using npm packages, out of the box after npm installation step type thus command in your terminal to start live compilation.
+- Second option is using npm packages, out of the box after npm installation step type thus command in your terminal to start live compilation.
 
 ```bash
-  $ npm run watch
+npm run watch
 ```
 
 ----
