@@ -32,7 +32,7 @@ npm install
 ----
 ## **Usage**
 
-- Two options for using Bootstrap Theme Kit, using [npm](https://www.npmjs.com) packages or with [Sass Live Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) extension.
+Two options for using Bootstrap Theme Kit, using [npm](https://www.npmjs.com) packages or with [Sass Live Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass) extension.
 
 - First option is using the Visual Studio Code extension, make sure all requirements are met then activate the watch button on the button side of editor for live compilation.
 
